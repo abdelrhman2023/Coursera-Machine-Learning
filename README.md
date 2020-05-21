@@ -11,21 +11,37 @@ These are my assignment submissions to the course done in python.
 
 
 ## Exercises
+
 ###Exercise 1 - Week 02
+
 Linear Regression
+
 ###Exercise 2 - Week 03
+
 Logistic Regression
+
 ###Exercise 3 - Week 04
+
 Multi-class Classification and Neural Networks
+
 ###Exercise 4 - Week 05
+
 Neural Network Learning
+
 ###Exercise 5 - Week 06
+
 Regularized Linear Regression and Bias/Variance
+
 ###Exercise 6 - Week 07
+
 Support Vector Machines
+
 ###Exercise 7 - Week 08
+
 K-Means Clustering and PCA
+
 ###Exercise 8 - Week 09
+
 Anomaly Detection and Recommender Systems
 
 ## About the [repository](https://github.com/dibgerge/ml-coursera-python-assignments) by [[dibgerge]](https://github.com/dibgerge)
