@@ -9,6 +9,44 @@ These are my assignment submissions to the course done in python.
 
 ----------
 
+## My lecture notes
+
+- [Regression](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md)
+    - [Linear Regression](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#linear-regression)
+    - [Logistic Regression](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#logistic-regression)
+    - [Hypothesis function](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#hypothesis-function)
+    - [Cost function](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#cost-function)
+    - [Gradient descent](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#gradient-descent)
+    - [Monitoring the convergence of the cost function](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#monitoring-the-convergence-of-the-cost-function)
+    - [Normal equation](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#normal-equation)
+    - [Feature Scaling](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#feature-scaling)
+    - [Regularization](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md#regularization)
+- [Neural Networks](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/2.%20Neural%20Networks.md)
+    - [Forward propagation](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/2.%20Neural%20Networks.md#forward-propagation)
+    - [Cost function](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/2.%20Neural%20Networks.md#cost-function)
+    - [Backpropagation](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/2.%20Neural%20Networks.md#backpropagation)
+    - [Gradient Checking](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/2.%20Neural%20Networks.md#gradient-checking)
+- [Support vector machine](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md)
+    - [The math, simplified intuition](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md#the-math-simplified-intuition)
+    - [Kernel Trick](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md#kernel-trick)
+    - [Kernels](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md#kernels)
+    - [Parameters](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md#parameters)
+    - [Notes](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/3.%20SVM.md#notes)
+- [Unsupervised Learning](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md)
+    - [K-means clustering algorithm](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#k-means-clustering-algorithm)
+    - [Dimensionality Reduction](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#dimensionality-reduction)
+    - [Principal Component Analysis (PCA)](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#principal-component-analysis-pca)
+    - [Anomaly detection](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#anomaly-detection)
+    - [Recommender System](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#recommender-system)
+    - [Collaborative filtering](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/4.%20Unsupervised%20Learning.md#collaborative-filtering)
+- [Other Topics](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md)
+    - [Machine learning Diagnostics](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#machine-learning-diagnostics)
+    - [Learning Curve](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#learning-curve)
+    - [Model Selection](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#model-selection)
+    - [Error analysis](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#error-analysis)
+    - [Skewed classes](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#skewed-classes)
+    - [Gradient Descent variations](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/5.%20Other.md#gradient-descent-variations)
+    
 
 ## Exercises
 
