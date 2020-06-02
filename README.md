@@ -9,6 +9,8 @@ These are my assignment submissions to the course done in python.
 
 ----------
 
+![alt text](Certificate.png "Course Certificate")
+
 ## My lecture notes
 
 - [Regression](https://github.com/aosama16/Coursera-Machine-Learning/blob/master/Lecture%20Notes/1.%20Regression.md)
